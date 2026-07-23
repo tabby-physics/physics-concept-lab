@@ -112,31 +112,46 @@ makes the explanation feel like it's actually responding to *your* experiment.
 
 ## How to run the project
 
-### Option A — Run locally
+## Option A — Run locally
 
-1. Clone the repository:
-   ```bash
-  git clone https://github.com/tabby-physics/physics-concept-lab.git
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/tabby-physics/physics-concept-lab.git
 cd physics-concept-lab
-   ```
+```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+### 2. Install dependencies
 
-3. Get a **free** Groq API key from
-   [console.groq.com/keys](https://console.groq.com/keys) — sign in, no
-   card required, then create a key.
+```bash
+pip install -r requirements.txt
+```
 
-4. Set your API key as an environment variable:
-   - **Windows (PowerShell):** `$env:GROQ_API_KEY="your_key_here"`
-   - **Mac/Linux:** `export GROQ_API_KEY="your_key_here"`
+### 3. Get a Groq API key
 
-5. Run the app:
-   ```bash
-   streamlit run app.py
-   ```
+Visit:
+
+https://console.groq.com/keys
+
+### 4. Set the environment variable
+
+Windows
+
+```powershell
+$env:GROQ_API_KEY="your_key_here"
+```
+
+Mac/Linux
+
+```bash
+export GROQ_API_KEY="your_key_here"
+```
+
+### 5. Run
+
+```bash
+streamlit run app.py
+```
 
 6. Open the local URL Streamlit prints (usually `http://localhost:8501`).
 
