@@ -91,6 +91,10 @@ makes the explanation feel like it's actually responding to *your* experiment.
   written/reviewed by me throughout
 
 ## Screenshots
+![Simple Harmonic Oscillator](screenshots/sho_main.png)
+![Physics Behind This — governing equations](screenshots/physics_equations.png)
+![Energy conservation and phase space](screenshots/energy_phase_space.png)
+![AI Tutor explanation](screenshots/ai_tutor.png)
 
 <!-- Add at least 3 screenshots here after running the app locally or on the
      deployed URL. Example markdown:
