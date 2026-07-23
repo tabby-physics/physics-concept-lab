@@ -20,7 +20,7 @@ show them a plot.
 
 ## Live demo
 
-🔗 **[ADD YOUR DEPLOYED URL HERE AFTER DEPLOYING]**
+🔗 https://physics-concept-lab-kgpsaektr2dcbz2qebhixv.streamlit.app/
 
 ## Features
 
