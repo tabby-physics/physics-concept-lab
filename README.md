@@ -163,9 +163,14 @@ Just open the live demo URL above — no installation needed.
 
 ```
 physics-concept-lab/
-├── app.py              # Everything: physics simulations, AI tutor, and UI
-├── requirements.txt      # Python dependencies
-├── .gitignore            # Keeps secrets/cache out of the repo
+├── app.py
+├── requirements.txt
+├── screenshots/
+│   ├── sho_main.jpeg
+│   ├── physics_equations.jpeg
+│   ├── energy_phase_space.jpeg
+│   └── ai_tutor.jpeg
+├── .gitignore
 └── README.md
 ```
 
