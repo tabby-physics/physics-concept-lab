@@ -116,8 +116,8 @@ makes the explanation feel like it's actually responding to *your* experiment.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/physics-concept-lab.git
-   cd physics-concept-lab
+  git clone https://github.com/tabby-physics/physics-concept-lab.git
+cd physics-concept-lab
    ```
 
 2. Install dependencies:
